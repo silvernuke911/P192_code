@@ -1,0 +1,36 @@
+In-phase t1
+In-phase t2 
+In-phase t1 
+In-phase t2 
+In-phase t3 
+out of phase t1 
+out of phase t2 
+out of phase t3 
+out of phase t4
+out of phase t5
+left is at rest
+right is at rest
+left is at rest
+right is at rest
+in phase
+out of phase
+k-measuring
+k-measuring
+in-phase t1
+in-phase t2
+out of phase
+out of phase
+left is at rest
+right is at rest
+in-phase
+in-phase
+out of phase
+out of phase
+left is at rest
+left is at rest
+right is at rest
+right is at rest
+control of left
+control of right
+in-phase (no spring)
+out of phase (no spring)
